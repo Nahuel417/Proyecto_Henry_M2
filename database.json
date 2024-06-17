@@ -1,0 +1,412 @@
+[
+    {
+        "title": "Madame Web",
+        "year": 2024,
+        "director": "S.J. Clarkson",
+        "duration": "2h 15min",
+        "genre": [
+            "Fantástico",
+            "Acción",
+            "Ciencia ficción"
+        ],
+        "rate": 5.1,
+        "poster": "https://i.postimg.cc/0y74fBpG/madame-web.webp"
+    },
+    {
+        "title": "Shrek",
+        "year": 2001,
+        "director": "Pete Docter, Kemp Powers",
+        "duration": "1h 47min",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "poster": "https://i.postimg.cc/VkPGdW3J/shrek.webp"
+    },
+    {
+        "title": "Soul",
+        "year": 2020,
+        "director": "Pete Docter, Kemp Powers",
+        "duration": "1h 40min",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "rate": 8.1,
+        "poster": "https://i.postimg.cc/8zdyWrSt/soul.webp"
+    },
+    {
+        "title": "Granizo 2024",
+        "year": 2024,
+        "director": "Kemp Powers",
+        "duration": "2h 15min",
+        "genre": [
+            "Action",
+            "Thriller",
+            "Sci-Fi"
+        ],
+        "rate": 6.2,
+        "poster": "https://i.postimg.cc/zBx6hHT9/granizo.webp"
+    },
+    {
+        "title": "Rango",
+        "year": 2011,
+        "director": "Gore Verbinski",
+        "duration": "1h 47min",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "rate": 7.2,
+        "poster": "https://i.postimg.cc/NGVPwcD7/rango.webp"
+    },
+    {
+        "title": "The Matrix",
+        "year": 1999,
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "duration": "2h 16min",
+        "genre": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "rate": 8.7,
+        "poster": "https://i.postimg.cc/WzGZswn0/matrix.webp"
+    },
+    {
+        "title": "Silicon Valley",
+        "year": 2014,
+        "director": "Mike Judge, John Altschuler, Dave Krinsky",
+        "duration": "2h 12min",
+        "genre": [
+            "Comedy"
+        ],
+        "rate": 8.5,
+        "poster": "https://i.postimg.cc/1XgCNCmq/silicon-valley.webp"
+    },
+    {
+        "title": "Super Mario Bros",
+        "year": 2023,
+        "director": "Aaron Horvath, Michael Jelenic",
+        "duration": "1h 57min",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "rate": 6.5,
+        "poster": "https://i.postimg.cc/6qSPjsjc/mario-bros.webp"
+    },
+    {
+        "title": "Coco",
+        "year": 2017,
+        "director": "Lee Unkrich, Adrian Molina",
+        "duration": "1h 45min",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "rate": 8.4,
+        "poster": "https://i.postimg.cc/wTyZtvMG/coco.webp"
+    },
+    {
+        "title": "Kung Fu Panda 4",
+        "year": 2024,
+        "director": "Jennifer Yuh Nelson",
+        "duration": "TBD",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "rate": 5.1,
+        "poster": "https://i.postimg.cc/zDP4XWzh/kung-fu-panda.webp"
+    },
+    {
+        "title": "The figth club",
+        "year": 1999,
+        "director": "David Fincher",
+        "duration": "2h 19min",
+        "genre": [
+            "Suspense",
+            "Action"
+        ],
+        "rate": 8.1,
+        "poster": "https://i.postimg.cc/t4C6HPVV/fight-club.webp"
+    },
+    {
+        "title": "Mr. Robot",
+        "year": 2015,
+        "director": "Sam Esmail",
+        "duration": "2h 19min",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "rate": 8.6,
+        "poster": "https://i.postimg.cc/yYM50HSY/mr-robot.webp"
+    },
+    {
+        "title": "Inception",
+        "year": 2010,
+        "director": "Christopher Nolan",
+        "duration": "2h 28min",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "rate": 8.8,
+        "poster": "https://i.postimg.cc/7Yjp7YPb/inception.webp"
+    },
+    {
+        "title": "Avatar",
+        "year": 2009,
+        "director": "James Cameron",
+        "duration": "2h 42min",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "rate": 7.8,
+        "poster": "https://i.postimg.cc/vTgM6SgK/avatar.webp"
+    },
+    {
+        "title": "The Avengers",
+        "year": 2012,
+        "director": "Joss Whedon",
+        "duration": "2h 23min",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "rate": 8,
+        "poster": "https://i.postimg.cc/j581jRkx/avengers.webp"
+    },
+    {
+        "title": "Spider-Man 2",
+        "year": 2004,
+        "director": "Sam Raimi",
+        "duration": "2h 7min",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "rate": 7.3,
+        "poster": "https://i.postimg.cc/25229R3W/spider-man.webp"
+    },
+    {
+        "title": "Pirates of the Caribbean",
+        "year": 2003,
+        "director": "Gore Verbinski",
+        "duration": "2h 23min",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "rate": 8,
+        "poster": "https://i.postimg.cc/HsyvYhPG/pirates-of-the-caribbean.webp"
+    },
+    {
+        "title": "Titanic",
+        "year": 1997,
+        "director": "James Cameron",
+        "duration": "3h 14min",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "rate": 7.8,
+        "poster": "https://i.postimg.cc/Y908Jnms/titanic.webp"
+    },
+    {
+        "title": "One Piece",
+        "year": 2023,
+        "director": "Tatsuya Nagamine",
+        "duration": "2h 20min",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "rate": 8.3,
+        "poster": "https://i.postimg.cc/xCpp8D2Q/one-piece.webp"
+    },
+    {
+        "title": "The Dark Knight",
+        "year": 2008,
+        "director": "Christopher Nolan",
+        "duration": "2h 32min",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "rate": 9,
+        "poster": "https://i.postimg.cc/yxMKhX08/the-dark-knight.webp"
+    },
+    {
+        "title": "La La Land",
+        "year": 2016,
+        "director": "Damien Chazelle",
+        "duration": "2h 8min",
+        "genre": [
+            "Drama",
+            "Music",
+            "Romance"
+        ],
+        "rate": 8,
+        "poster": "https://i.postimg.cc/Xv3zDk8R/la-la-land.webp"
+    },
+    {
+        "title": "Guardians of the Galaxy",
+        "year": 2017,
+        "director": "James Gunn",
+        "duration": "2h 16min",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "rate": 7.7,
+        "poster": "https://i.postimg.cc/6QXgjjvX/guardians.webp"
+    },
+    {
+        "title": "Zootopia",
+        "year": 2016,
+        "director": "Byron Howard, Rich Moore, Jared Bush",
+        "duration": "1h 48min",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "rate": 8,
+        "poster": "https://i.postimg.cc/ydGnBmmY/zootopia.webp"
+    },
+    {
+        "title": "Ted",
+        "year": 2012,
+        "director": "Seth MacFarlane",
+        "duration": "1h 46min",
+        "genre": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "rate": 6.9,
+        "poster": "https://i.postimg.cc/qq9mcsqZ/ted.webp"
+    },
+    {
+        "title": "Cómo Entrenar A Tu Dragón",
+        "year": 2010,
+        "director": "Dean DeBlois, Chris Sanders",
+        "duration": "1h 38min",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "rate": 8.1,
+        "poster": "https://i.postimg.cc/cC8hJvh7/your-dragon.webp"
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "year": 1991,
+        "director": "Jonathan Demme",
+        "duration": "1h 58min",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "rate": 8.6,
+        "poster": "https://i.postimg.cc/3rV3H7zQ/the-silence-of-the-lambs.webp"
+    },
+    {
+        "title": "Requiem for a dream",
+        "year": 2000,
+        "director": "Darren Aronofsky",
+        "duration": "1h 42min",
+        "genre": [
+            "Terror",
+            "Drama"
+        ],
+        "rate": 8.3,
+        "poster": "https://i.postimg.cc/6QfSDrrG/requiem.webp"
+    },
+    {
+        "title": "Shrek",
+        "year": 2001,
+        "director": "Andrew Adamson, Vicky Jenson",
+        "duration": "1h 30min",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "rate": 7.8,
+        "poster": "https://i.postimg.cc/VkPGdW3J/shrek.webp"
+    },
+    {
+        "title": "Click",
+        "year": 2006,
+        "director": "Frank Coraci",
+        "duration": "1h 47min",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "rate": 6.4,
+        "poster": "https://i.postimg.cc/HL2hG8vV/click.webp"
+    },
+    {
+        "title": "The Lord of the Rings",
+        "year": 2001,
+        "director": "Peter Jackson",
+        "duration": "2h 58min",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "rate": 8.8,
+        "poster": "https://i.postimg.cc/JzJSQVtx/lord-of-the-rings.webp"
+    },
+    {
+        "title": "Natural born killers",
+        "year": 1994,
+        "director": "Oliver Stone",
+        "duration": "1h 59min",
+        "genre": [
+            "Action",
+            "Crime"
+        ],
+        "rate": 7.2,
+        "poster": "https://i.postimg.cc/BbkwxM0R/born-killers.webp"
+    },
+    {
+        "title": "Interstellar",
+        "year": 2014,
+        "director": "Christopher Nolan",
+        "duration": "2h 49min",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "rate": 8.6,
+        "poster": "https://i.postimg.cc/MZnwjL0P/interstellar.webp"
+    }
+]

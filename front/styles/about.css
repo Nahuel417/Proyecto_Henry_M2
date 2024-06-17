@@ -1,0 +1,230 @@
+* {
+    font-family: 'Karla', sans-serif;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+div.background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2021/11/sala-cine-cadena-amc-estados-unidos-2529691.jpg?tf=3840x);
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+}
+
+div.contenedor-body {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    height: 100%;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    transition: all 0.6s;
+}
+
+header.stycky {
+    top: -10rem;
+    transition: all 1s;
+}
+
+header.styckya {
+    background: rgba(17, 17, 17, 0.5);
+    -webkit-box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.75);
+    transition: all 1s;
+}
+
+header div.contenedor-header {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 0 30px 0;
+    background: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+}
+
+header div.contenedor-header div.caja-busqueda h1 {
+    font-size: 22px;
+    margin: 0 0 0 70px;
+}
+
+header div.caja-logo {
+    width: 40%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: none;
+}
+
+div.caja-logo img {
+    width: 100px;
+    border-radius: 10px;
+    transition: all 0.5s;
+}
+
+div.caja-logo img:hover {
+    transform: scale(1.2);
+}
+
+div.caja-enlaces {
+    padding: 10px;
+}
+
+div.caja-enlaces ul {
+    display: flex;
+    justify-content: start;
+    margin: 0;
+    list-style: none;
+}
+
+div.caja-enlaces ul li a {
+    margin: 0 20px;
+    padding: 8px 5px 4px 5px;
+    font-size: 14px;
+    color: white;
+    text-decoration: none;
+    position: relative;
+}
+
+div.caja-enlaces ul li a::before {
+    content: '';
+    width: 0%;
+    height: 2px;
+    background-color: rgba(255, 255, 255, 0.7);
+    position: absolute;
+    top: 100%;
+    left: 0;
+    transition: all 0.4s ease-out;
+}
+
+div.caja-enlaces ul li:hover a::before {
+    width: 90%;
+    transform: translateX(5%);
+}
+
+div.caja-busqueda {
+    width: 40%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.caja-busqueda input {
+    width: 40%;
+    margin-right: 70px;
+    height: 25px;
+    border: none;
+    border-radius: 5px;
+    padding: 8px;
+    outline: none;
+    background-color: rgba(128, 128, 128, 0.2);
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    transition: all 0.5s;
+}
+
+div.caja-busqueda input::placeholder {
+    color: white;
+    font-size: 14px;
+}
+
+div.caja-busqueda input:focus {
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(255, 255, 255, 1);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(255, 255, 255, 1);
+    box-shadow: 0px 0px 5px 0px rgba(255, 255, 255, 1);
+    transform: scale(1.2);
+    font-size: 14px;
+}
+
+/** Estilo Carrusel **/
+div.carousel {
+    width: 100%;
+    margin: auto;
+    opacity: 0.6;
+    top: -105px;
+    -webkit-box-shadow: 0px 4px 3px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 4px 3px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 4px 3px 0px rgba(0, 0, 0, 0.75);
+}
+
+div.carousel-item {
+    transition: transform 0.4s ease-in-out;
+}
+
+div.carousel-item img {
+    min-width: 100%;
+    height: 530px;
+    margin: auto;
+}
+
+button.carousel-control-prev,
+button.carousel-control-next {
+    width: 5%;
+    opacity: 0.3;
+}
+/** Estilo Carrusel **/
+
+hr.linea-header {
+    width: 95%;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-color: rgba(128, 128, 128, 0.2);
+    border: none;
+    height: 1px;
+}
+
+main div.contenedor-main {
+    width: 80%;
+    margin: auto;
+    position: relative;
+    top: -40px;
+}
+
+div.caja-titulo {
+    text-align: start;
+}
+
+div.caja-titulo h3,
+h4.despedida {
+    margin: 0 10px 0 10px;
+}
+
+hr.linea-about {
+    width: 100%;
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    height: 1px;
+}
+
+article.presentacion,
+article.formacion,
+article.aspiraciones,
+article.contacto {
+    margin: 15px 10px 50px 10px;
+}
+
+article.contacto p a {
+    text-decoration: none;
+}
+
+article.contacto p a:hover {
+    text-decoration: underline;
+}
