@@ -1,11 +1,11 @@
 
 <p align="center">
-  Video del Proyecto
-</p>
-<p align="center">
   <a href="https://youtu.be/DJmTKRibRag">
     <img src="https://img.youtube.com/vi/DJmTKRibRag/0.jpg" alt="Video del Proyecto"/>
   </a>
+  <p align="center">
+    Video del Proyecto
+  </p>
 </p>
 
 # Proyecto Henry M2
