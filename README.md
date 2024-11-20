@@ -62,6 +62,7 @@ appName=                    # Nombre de la base de datos
 ```
 
 ## Video del Proyecto
-[![Video del Proyecto](https://youtu.be/DJmTKRibRag)
+[![Video del Proyecto](https://img.youtube.com/vi/DJmTKRibRag/0.jpg)](https://youtu.be/DJmTKRibRag)
+
 
 ## Deploy (proximamente)
