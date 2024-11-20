@@ -1,6 +1,6 @@
 
 <p align="center">
-  ## Video del Proyecto
+  Video del Proyecto
 </p>
 <p align="center">
   <a href="https://youtu.be/DJmTKRibRag">
