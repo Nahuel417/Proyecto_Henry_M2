@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://youtu.be/DJmTKRibRag">
+  <a href="https://youtu.be/DJmTKRibRag" target="_blank">
     <img src="https://github.com/user-attachments/assets/4102f3b0-668f-4329-9a4f-5342c30e4796" alt="Video del Proyecto"/>
   </a>
   <p align="center">
