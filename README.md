@@ -1,5 +1,8 @@
 # Proyecto Henry M2
 
+## Video del Proyecto
+[![Video del Proyecto](https://img.youtube.com/vi/DJmTKRibRag/0.jpg)](https://youtu.be/DJmTKRibRag)
+
 ## Descripción
 Este proyecto consiste en desarrollar una interfaz de usuario en el front-end que consuma y muestre información en tiempo real desde una base de datos. A través de solicitudes a un servidor, la interfaz se actualiza dinámicamente, proporcionando una experiencia interactiva y actualizada para el usuario.
 
@@ -60,9 +63,5 @@ Make sure to create a `.env` file in the project root with the following values:
 MONGO_URI=                  # URI de conexión a la base de datos MongoDB (ej. mongodb+srv://usuario:contraseña@cluster.mongodb.net/nombre_base_de_datos)
 appName=                    # Nombre de la base de datos
 ```
-
-## Video del Proyecto
-[![Video del Proyecto](https://img.youtube.com/vi/DJmTKRibRag/0.jpg)](https://youtu.be/DJmTKRibRag)
-
 
 ## Deploy (proximamente)
