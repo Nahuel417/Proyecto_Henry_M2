@@ -1,7 +1,7 @@
-# Proyecto Henry M2
-
 ## Video del Proyecto
 [![Video del Proyecto](https://img.youtube.com/vi/DJmTKRibRag/0.jpg)](https://youtu.be/DJmTKRibRag)
+
+# Proyecto Henry M2
 
 ## Descripción
 Este proyecto consiste en desarrollar una interfaz de usuario en el front-end que consuma y muestre información en tiempo real desde una base de datos. A través de solicitudes a un servidor, la interfaz se actualiza dinámicamente, proporcionando una experiencia interactiva y actualizada para el usuario.
