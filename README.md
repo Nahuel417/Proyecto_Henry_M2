@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://youtu.be/DJmTKRibRag">
-    <img src="https://img.youtube.com/vi/DJmTKRibRag/0.jpg" alt="Video del Proyecto"/>
+    <img src="https://github.com/user-attachments/assets/4102f3b0-668f-4329-9a4f-5342c30e4796" alt="Video del Proyecto"/>
   </a>
   <p align="center">
     👆 Video del Proyecto 👆
